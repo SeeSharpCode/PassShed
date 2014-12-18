@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PassShed.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShowCategoryWarning" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowFieldWarning" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MenuBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SteelBlue</Value>
+    </Setting>
+    <Setting Name="MenuForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="RowColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="AlternatingRowColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightSteelBlue</Value>
+    </Setting>
+    <Setting Name="GridlinesStyle" Type="System.Windows.Forms.DataGridViewCellBorderStyle" Scope="User">
+      <Value Profile="(Default)">SingleHorizontal</Value>
+    </Setting>
+    <Setting Name="AutosizeColumnsMode" Type="System.Windows.Forms.DataGridViewAutoSizeColumnsMode" Scope="User">
+      <Value Profile="(Default)">Fill</Value>
+    </Setting>
+    <Setting Name="ShowCsvGuide" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpdateSettings" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

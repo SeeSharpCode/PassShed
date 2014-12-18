@@ -1,0 +1,33 @@
+﻿ToDo:
+- Load .rtf in Changelog
+
+Finished:
+- Parameterize CRUD methods
+- Add 'All' category
+- Replace ListBox with TreeView for categories
+- Change fields GroupBox.Text to "Category: Fields"
+- Prevent user from adding duplicate fields
+- Validate user input and do not alllow blank labels/names
+  - Refine character limits
+- Delete functionality for accounts
+- Fix category rename/delete nothing
+- Resolve deleting last category
+- Improve exception handling
+- Refactor populate methods
+- Implement user settings
+- Fix minimum size
+- Add created/last modified metadata functionality for accounts
+- Add user option to specify column resize mode
+- Fix delete categories
+- Delete accounts without credentials
+- Check over ListBox navigation
+- List fields in ListBox by DisplayIndex
+- CSV Import
+  - Pass in selected category in main form to CSV import form
+- Refresh after CSV import
+- Trim imported fields and credentials
+- Refresh Shed after CSV import
+- Encrypt/decrypt credentials
+- Resolve AppData troubles
+- Sort and remove unused directives
+- Install 'IgnoreList.cfg' to user's AppData path

@@ -1,0 +1,8 @@
+﻿Deployment Steps
+0.) Remove 'Temp' menustrip
+1.) Sort and remove usings
+2.) Update assembly/file version
+3.) Update setup project
+4.) Update setup project version
+5.) Publish changelog
+6.) Update app XML, download link, and download page
